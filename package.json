@@ -10,6 +10,7 @@
     "gh-pages": "^1.0.0"
   },
   "scripts": {
+    "deploy": "gh-pages -d _book",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
