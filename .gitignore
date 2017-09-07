@@ -5,3 +5,5 @@ test.md
 
 # Ignore everything in the directory "bin"
 bin/*
+
+_book/*
