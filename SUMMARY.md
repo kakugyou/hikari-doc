@@ -16,6 +16,9 @@
 * [文章管理](part2/article.md)
     * [文章分类](part2/article_category.md)
     * [文章列表](part2/article_single.md)
+* [留言管理](part2/message.md)
+* [友情链接管理](part2/friendly_link.md)
+
 * [产品管理](part2/product.md)
     * [产品分类](part2/product_category.md)
     * [产品列表](part2/product_single.md)
