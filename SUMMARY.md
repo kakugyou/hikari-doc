@@ -31,6 +31,7 @@
     * [产品列表](part2/product_single.md)
 
 ### 高级设置
+* [路由规则](part3/route.md)
 * [菜单管理](part3/menu.md)
 * [图片管理](part3/resource.md)
 * [布局设置](part3/layout.md)
