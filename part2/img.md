@@ -27,7 +27,7 @@
 
 在URL中放置远程调用的图片链接,或者点击"浏览服务器",打开图片管理器,在里面寻找需要的图片,双击后选定图片.
 
-![上传图片](/part2/img/ckeditor-2.png "上传图片")
+<div align="center"><img src="/part2/img/ckeditor-2.png" alt="上传图片" /></div>
 
 最后点击"确定"按钮,则选择的图会插入到编辑器文档中
 
