@@ -9,6 +9,12 @@
 
 * [管理成员](part1/user.md)
 
+
+### 常见问题
+* [如何更换网站Logo?](question/logo.md)
+* [如何更换浏览器图标?](question/favicon.md)
+
+
 ### 内容管理
 * [通用操作](part2/common.md)
     * [图片管理](part2/img.md)
@@ -16,13 +22,13 @@
 
 * [网站设置](part2/setting.md)
     * [网站信息](part2/website.md)
-    * [公司信息](part2/company.md)
+    * [公司信息管理](part2/company.md)
     
 * [单页管理](part2/page.md)
 
-* [文章管理](part2/article.md)
+* [新闻管理](part2/article.md)
     * [文章分类](part2/article_category.md)
-    * [文章列表](part2/article_single.md)
+    * [文章管理](part2/article_single.md)
 
 * [留言管理](part2/message.md)
 

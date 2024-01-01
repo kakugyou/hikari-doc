@@ -7,4 +7,4 @@
 - 售后客服：郭先生
 - 在线咨询：370073328（QQ） kakugyou（WeChat）
 - 服务邮箱：[kaian.xiao@gmail.com](mailto:kaian.xiao@gmail.com "")
-- 官网网址：[www.cdreami.com]fi
+- 官网网址：[www.cdreami.com]
